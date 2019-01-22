@@ -1,0 +1,23 @@
+Ex 1 :
+
+- Créer un dépôt Git et commiter le travail à l'issue de l'examen
+
+- Bien penser à inclure un export de la base de données !
+
+Ex 2 :
+
+- La base de donnée doit s'appeler "immobilier_prenom"
+
+- La table reste "logement"
+
+Ex 3 :
+
+- En plus des contrôles d'existence, les seules validations à faire sont celles citées dans l'exercice !!
+
+Ex 4 :
+
+- "Concernant la photo, nous n’afficherons pas le chemin, mais bien la photo en elle-même," => affichez la photo, et pas "- photo : titrephoto.png"
+
+Ex 5 :
+
+- Suivre le tutoriel qui sera fourni
